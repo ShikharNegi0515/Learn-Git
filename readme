@@ -1,0 +1,5 @@
+git branch --list (list all the branches in system)
+git branch BranchName (creates a branch)
+git checkout BranchName (move to other Branch)
+
+git checkout -b BranchName
